@@ -14,7 +14,7 @@
 #                   Signatures
 #                   Favorites
 #       
-#    NOTE: This will not account for browser bookmarks. Please ensure the end user has them backed up
+#    NOTE: This will not account for browser bookmarks. Please ensure the end user has them backed up on local computer
 #
 # Author: [REDACTED]
 #
